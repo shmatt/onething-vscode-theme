@@ -352,6 +352,13 @@
 			}
 		},
 		{
+			"scope": "variable.language.this",
+			"settings": {
+				"foreground": "#C87333",
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": "comment",
 			"settings": {
 				"foreground": "#7a7a7a"

@@ -1,11 +1,14 @@
 {
   "name": "onething-vscode-theme",
   "displayName": "OneThing VS Code theme",
-  "description": "",
+  "description": "A minimal theme for those who are distracted by colours.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "repository": "https://github.com/shmatt/onething-vscode-theme",
+  "publisher": "entuent",
+  "galleryBanner.color": "#C87333",
   "categories": [
     "Themes"
   ],
