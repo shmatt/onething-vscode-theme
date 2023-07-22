@@ -1,0 +1,21 @@
+{
+  "name": "onething-vscode-theme",
+  "displayName": "OneThing VS Code theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OneThing",
+        "uiTheme": "hc-black",
+        "path": "./themes/OneThing-color-theme.json"
+      }
+    ]
+  }
+}
